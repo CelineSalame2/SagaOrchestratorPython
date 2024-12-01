@@ -14,3 +14,8 @@ In the case of a failure, compensating actions are triggered to roll back previo
 ⚡ Asynchronous Execution: Fully supports async/await for modern systems.<br/>
 🧩 Extensible Design: Add or modify actions and compensations dynamically using the OrchestrationBuilder.<br/>
 📜 Detailed Error Handling: Captures and reports tracebacks for both transaction and compensation errors.<br/>
+
+## References
+* https://github.com/flowpl/saga_py
+* https://github.com/cdddg/py-saga-orchestration/tree/main
+* https://github.com/serramatutu/py-saga
